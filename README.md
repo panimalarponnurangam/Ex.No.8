@@ -1,16 +1,16 @@
-## Exp 8: Reproducing an Image Using Prompts for Image Generation
+## Exp 8: Exploration of Prompting Techniques for Audio Generation
 
 # Date :
-# Reg. No. 
+# Reg. No. 212222110031
+# Name: Panimalar P
 
 ## Aim:
-To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
+To explore and evaluate the effectiveness of various prompting techniques in generating and manipulating audio content—such as music, sound effects, and voice narration—using AI models, with the goal of identifying optimal strategies for diverse audio generation applications.
 
 ## Procedure:
 1.	Analyze the Given Image:
 ○	Examine the image carefully, noting key elements such as:
-■	Objects/Subjects (e.g., people, animals, objects)
-■	Colors (e.g., dominant hues, contrasts)
+■	Objects/Subjects (e.g., people, animals, objects■	Colors (e.g., dominant hues, contrasts)
 ■	Textures (e.g., smooth, rough, glossy)
 ■	Lighting (e.g., bright, dim, shadows)
 ■	Background (e.g., outdoor, indoor, simple, detailed)
