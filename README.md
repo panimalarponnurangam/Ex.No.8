@@ -46,11 +46,10 @@ After generating the audio, AI tools apply enhancements such as:
 ### 5. Export & Integration
 The final audio file can be exported in various formats (MP3, WAV, etc.) and integrated into different applications like podcasts, films, or accessibility tools.
 
-## Input
+## Output
 
 
-
-https://storage.googleapis.com/audiomessage/Inspirational_Message.mp3
+https://drive.google.com/drive/folders/1FlJIu47YHoAQqzxOnkYsNAokVIRwlGQY
 
 ## Deliverables:
 - Text-to-Speech (TTS) Audio –> AI can convert written text into natural-sounding speech, useful for voiceovers, audiobooks, and accessibility features.
